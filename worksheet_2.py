@@ -1,6 +1,3 @@
-#1
-#1 st with direct functions
-
 L = [11, 12, 13, 14]
 
 # (i) Add 50 and 60 to L
