@@ -1,6 +1,6 @@
-
 import math
 import numbers
+
 # 1
 print("Twinkle, twinkle, little star, \nHow I wonder what you are! \n Up above the world so high, \n Like a diamond in the sky. \nTwinkle, twinkle, little star, \nHow I wonder what you are!")
 
